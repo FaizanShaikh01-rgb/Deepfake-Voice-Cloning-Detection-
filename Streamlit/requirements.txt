@@ -1,0 +1,11 @@
+streamlit>=1.25
+opencv-python>=4.8
+pandas>=1.5
+librosa>=0.10
+tensorflow>=2.12
+matplotlib>=3.7
+keras>=2.12
+Keras-Preprocessing>=1.1.2
+lime>=0.2.0.1
+scikit-image>=0.20
+numpy>=1.23
